@@ -1,0 +1,1 @@
+Dado al alto desequilibrio de las clases presente en el dataset de 10K valores, se ha explorado aquel con más datos pero sin un resultado satisfactorio, de todas formas, hay un notebook para este otro dataset que explora el EDA.
